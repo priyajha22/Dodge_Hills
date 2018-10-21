@@ -17,6 +17,6 @@ coming from the opposite direction and which leads to accidents.
 <h2>Improvement</h2>
 <p>Reducing Probability of Accidents in the Hilly Regions
 Analysis of data to ensure perfect functioning of roads and vehicular safety.
-To make a predictable analysis of the future traffic conditions.
+To make a predictable analysis of the future Traffic conditions.
 </p>
 
